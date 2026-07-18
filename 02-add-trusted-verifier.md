@@ -1,5 +1,7 @@
 # Add Vouch Philippines As Your Trusted Verifier
 
+!['The Next Steps' by Gerd Altmann released to the Public Domain / CC0.](https://mirror.tangled.network/xrpc/sh.tangled.git.temp.getBlob?path=images%2Fnext-steps-01.jpg&ref=main&repo=did%3Aplc%3Aqzws2ijprqyjicwrzhd2wgcl "'The Next Steps' by Gerd Altmann released to the Public Domain / CC0.")
+
 ## Witchsky (Web, Android)
 
 1. Go to `Settings` > `Runes`
